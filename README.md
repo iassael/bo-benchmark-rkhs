@@ -4,7 +4,7 @@
 Synthetic heteroscedastic 1D function generated from 2 Squared Exponential kernels for Bayesian Optimization method evaluation tasks 
 
 ### Input Space
-x \in [0, 1]
+x ∈ [0, 1]
 
 ### Global Maximum
 x=0.89235, f(x)=5.73839
