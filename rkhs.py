@@ -1,6 +1,24 @@
 #!/usr/bin/python
-__author__ = "Ziyu Wang, John Assael and Nando de Freitas"
-__copyright__ = "Copyright 2014"
+##
+# Copyright (C) 2014 Ziyu Wang, John-Alexander Assael, Nando de Freitas
+#
+# This code is written for research and educational purposes only to
+# supplement the paper entitled
+# "Heteroscedastic Treed Bayesian Optimization"
+# by John-Alexander Assael, Ziyu Wang, Nando de Freitas
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 import numpy as np
 from scipy.spatial.distance import cdist
