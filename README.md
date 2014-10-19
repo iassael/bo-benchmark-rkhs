@@ -10,7 +10,8 @@ x ∈ [0, 1]
 x=0.89235, f(x)=5.73839
 
 ### Authors
-Ziyu Wang, John Assael and Nando de Freitas
+Copyright (C) 2014 Ziyu Wang, John-Alexander Assael, Nando de Freitas
+published under GPLv3 license
 
 ### Screenshot
 ![ScreenShot](https://raw.github.com/iassael/function-rkhs/master/screenshot.jpg)
